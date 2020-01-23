@@ -1,6 +1,6 @@
 # hugo-easy-gallery
 
-**2019-01-20: I'm looking for people to help maintain this project - e.g. review and approve pull requests, which I no longer have time to do. Please contact me if you are interested. Thanks!**
+**This has been adapted from [here](https://github.com/liwenyip/hugo-easy-gallery) to include the [pull request to remove jQuery](https://github.com/liwenyip/hugo-easy-gallery/pull/27).**
 
 Automagical css image gallery in [Hugo](https://gohugo.io/) using shortcodes, with optional lightbox/carousel gadget using [PhotoSwipe](http://photoswipe.com/) and jQuery.
 
