@@ -2,7 +2,7 @@
 
 **This has been adapted from [here](https://github.com/liwenyip/hugo-easy-gallery) to include the [pull request to remove jQuery](https://github.com/liwenyip/hugo-easy-gallery/pull/27).**
 
-Automagical css image gallery in [Hugo](https://gohugo.io/) using shortcodes, with optional lightbox/carousel gadget using [PhotoSwipe](http://photoswipe.com/) and jQuery.
+Automagical css image gallery in [Hugo](https://gohugo.io/) using shortcodes, with optional lightbox/carousel gadget using [PhotoSwipe](http://photoswipe.com/).
 
 **New:** Create a gallery of all images in a directory with just one line of shortcode, see [demo](https://www.liwen.id.au/heg/#gallery-usage).
 
